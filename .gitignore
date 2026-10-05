@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# Trained models
+models/*.pkl
+
+# Large files
+*.zip
+*.rar
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
