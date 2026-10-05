@@ -105,4 +105,3 @@ A working webcam is required.
 ## Author
 
 **Tanish Powale**
-git status
